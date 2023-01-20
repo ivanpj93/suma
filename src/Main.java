@@ -8,6 +8,7 @@ public class Main {
                 System.out.println(i +"x" + j + "=" + i*j);
                 if(j==10){
                     System.out.println("\n");
+                    
                 }
             }
         }
